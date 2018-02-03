@@ -1,0 +1,12 @@
+C:\Users\mvicar01\OneDrive - University of California\Training\Practice Projects\AppTest01\AppTest01\bin\Debug\AppTest01.exe.config
+C:\Users\mvicar01\OneDrive - University of California\Training\Practice Projects\AppTest01\AppTest01\bin\Debug\AppTest01.exe
+C:\Users\mvicar01\OneDrive - University of California\Training\Practice Projects\AppTest01\AppTest01\bin\Debug\AppTest01.pdb
+C:\Users\mvicar01\OneDrive - University of California\Training\Practice Projects\AppTest01\AppTest01\obj\Debug\AppTest01.exe
+C:\Users\mvicar01\OneDrive - University of California\Training\Practice Projects\AppTest01\AppTest01\obj\Debug\AppTest01.pdb
+C:\Users\mvicar01\OneDrive - University of California\Training\Practice Projects\AppTest01\AppTest01\obj\Debug\AppTest01.csprojResolveAssemblyReference.cache
+C:\Users\Matt\OneDrive\VS Projects\AppTest01\AppTest01\AppTest01\obj\Debug\AppTest01.csprojResolveAssemblyReference.cache
+C:\Users\Matt\OneDrive\VS Projects\AppTest01\AppTest01\AppTest01\obj\Debug\AppTest01.exe
+C:\Users\Matt\OneDrive\VS Projects\AppTest01\AppTest01\AppTest01\obj\Debug\AppTest01.pdb
+C:\Users\Matt\OneDrive\VS Projects\AppTest01\AppTest01\AppTest01\bin\Debug\AppTest01.exe.config
+C:\Users\Matt\OneDrive\VS Projects\AppTest01\AppTest01\AppTest01\bin\Debug\AppTest01.exe
+C:\Users\Matt\OneDrive\VS Projects\AppTest01\AppTest01\AppTest01\bin\Debug\AppTest01.pdb
